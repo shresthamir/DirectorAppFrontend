@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>icons8-edit-graph-report-50</title>
+	<defs>
+		<image  width="43" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAwAQMAAACyghHbAAAAAXNSR0IB2cksfwAAAAZQTFRFD6TcAAAAvRQ0bQAAAAJ0Uk5T/wDltzBKAAAAkklEQVR4nKXQTQqDMBAF4CdZxIUgdCEupNp7FLQ38RjdRenCc0kvYm/g0kVpOnmPnqAM5IMkzB8AhLjZiV60oiSZFw+xik3sgRw9ebfkU5JILM1fFIniR5046e2CzgLDNKR/kwXgcAPpmAIVciZBI666v49kZ4XsRdyT+EWzq/qZE6HhfMiDOtN6ZuGMGA8vbINfVqtIlPArhxUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="7" y="2"/>
+</svg>
